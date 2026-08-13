@@ -5,6 +5,16 @@ user_id: "mauro"
 # Perfil y Memorias
 
 ## Historial de Conversaciones
+- **Usuario**: Trabajo mas frecuentemente con niños con TDAH
+- **Bot**: Perfecto, es una especialidad muy importante. El TDAH presenta desafíos y oportunidades muy específicos en el ámbito educativo.
+
+Continuando con la idea de entender mejor tu experiencia:
+
+1.  **¿En qué ámbito te desempeñas** (escuela, consultorio privado, centro terapéutico)?
+2.  **¿Cuáles dirías que son los mayores desafíos** a la hora de adaptar el contenido escolar para los niños con TDAH con los que trabajas?
+
+Tu conocimiento sobre las estrategias y dificultades en el TDAH será muy valioso para la base de conocimiento de la IA.
+
 - **Usuario**: soy psicopedagogo
 - **Bot**: ¡Excelente! Es un placer conversar contigo, colega. Como psicopedagogo, tu perspectiva es increíblemente valiosa para este proyecto.
 
