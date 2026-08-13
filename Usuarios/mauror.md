@@ -15,3 +15,6 @@ especialidad: "psicopedagogia"
 - 
 
 ## Historial de Conversaciones
+- **Usuario**: hola
+- **Bot**: No pude generar una respuesta en este momento.
+
